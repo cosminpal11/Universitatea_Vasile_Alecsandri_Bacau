@@ -1,5 +1,3 @@
-# Universitatea_Vasile_Alecsandri_Bacau
-student la informatica, anul I
 
 Form-ul e alcatuit din 3 TextBox-uri, 3 butoane si un label.
 Primul TextBox, numit "cnp_text" primeste de la utilizator un CNP pentru a putea determina data nasterii, varsta si genul persoanei respective.
