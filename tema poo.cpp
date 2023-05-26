@@ -1,3 +1,5 @@
+//Aceasta tema a fost facuta dupa ce s-a prezentat proiectul.
+
 #include <iostream>
 #include <string>
 #include <windows.h>
